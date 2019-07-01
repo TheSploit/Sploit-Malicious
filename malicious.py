@@ -925,8 +925,8 @@ def Shellvirus():
 		print(""+R+"[!] This is not number")
 		
 def banner2():
-	print(""+G+"Please do"+R+" NOT "+G+"use this tool for illegal activity")
-	print(""+R+"[!] "+G+"Keep legal don't illegal "+R+" [!]"+O+"")
+	print(""+G+"Tolong Jangan"+R+" Gunakan "+G+"Tool ini Untuk Illegal activity")
+	print(""+R+"[!] "+G+"Tetap Legal Jangan Ilegal By ⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ "+R+" [!]"+O+"")
 def menu():
 	print("\n"+R+"[========== Menu ==========]"+O+"")
 	print(""+O+"["+R+"1"+O+"] Android\t\t["+R+"4"+O+"] Pdf Autorun PC\t\t["+R+"7"+O+"] Update tool")
